@@ -5,7 +5,7 @@ This is a solution for learning purposes.
 ## My process
 
 ### Built with
-
+- HTML
 - CSS custom properties
 - Flexbox
 - CSS Grd
