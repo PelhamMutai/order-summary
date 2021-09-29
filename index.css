@@ -10,13 +10,13 @@ body{
     box-sizing: border-box;
 }
 .container{
-    width: 100vw;
-    height: 100vh;
+    width: 1440px;
+    height: 900px;
     background-color: #E0E8FF;
 }
 .desktop-pattern{
     width:1440px ;
-    height: 437px;
+    height:437px;
 }
 .contentbox{
     width: 450px;
