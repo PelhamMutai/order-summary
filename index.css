@@ -12,14 +12,14 @@ body{
 .container{
     width:100vw;
     height: 100vh;
-    background-color: #E0E8FF;
+    background-color:#f2f2f2;
 }
 .desktop-pattern{
-    width:100vw ;
+    width:100vw;
     height:437px;
 }
 .contentbox{
-    width: 100vw;
+    width: 450px;
     height:697px ;
     background-color: white;
     position: absolute;
