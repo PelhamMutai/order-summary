@@ -13,7 +13,7 @@ This is a solution for learning purposes.
 ## Author
 
 - Website - [pelham mutai](https://github.com/PelhamMutai)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [william](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
 
