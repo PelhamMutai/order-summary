@@ -1,7 +1,7 @@
-@import url(https://fonts.google.com/specimen/Red+Hat+Display);
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
 *{
-    font-family: "red hat display";
-    font-weight: 500px, 700px, 900px;
+    font-family: 'Red Hat Display', sans-serif;
+    /* font-weight: 500px, 700px, 900px; */
 }
 
 body{
@@ -11,20 +11,17 @@ body{
 }
 .container{
     width:100vw;
-    height: 100vh;
-    background-color:#f2f2f2;
+    height:200vh;
+    background: #f2f2f2;
+    display: flex;
 }
-.desktop-pattern{
-    width:100vw;
-    height:437px;
-}
-.contentbox{
+ .contentbox{ 
     width: 450px;
     height:697px ;
     background-color: white;
     position: absolute;
     top:101.5px;
-    left: 495px;
+    left: 291px;
     border-radius: 15px;
     box-shadow: 1px 20px 20px rgb(204, 213, 216);
 }
@@ -34,9 +31,9 @@ body{
     position: absolute;
     left: 176px;
     top: 629px;
+    font-weight: 700;
 /* font-family: Red Hat Display; */
 font-style: normal;
-font-weight: 900;
 font-size: 15px;
 line-height: 20px;
 /* identical to box height */
@@ -62,9 +59,9 @@ width: 150px;
 left: 102px;
 top: 15px;
 border-radius: nullpx;
+font-weight: 700;
 /* font-family: Red Hat Display; */
 font-style: normal;
-font-weight: 900;
 font-size: 15px;
 line-height: 20px;
 /* identical to box height */
@@ -103,15 +100,11 @@ color: #FFFFFF;
     width: 117.19047546386719px;
     left: 70px;
     top: 0px;
+    font-weight: 900;
     border-radius: nullpx;
-    
-
-/* font-family: Red Hat Display; */
 font-style: normal;
-font-weight: 900;
 font-size: 16px;
 line-height: 21px;
-
 color: #1F2E55;
 
 }
@@ -168,10 +161,9 @@ text-align: center;
     position: absolute;
     left: 46px;
     top: 265px; 
-    font-weight: bolder;
+    font-weight: 900;
     /* font-family: Red Hat Display; */
 font-style: normal;
-font-weight: 900;
 font-size: 28px;
 line-height: 37px;
 text-align: center;
@@ -181,5 +173,8 @@ color: #1F2E55;
 }
 .hero{
     border-top-right-radius: 15px;
-    border-top-left-radius: 15px;
+    border-top-left-radius: 15px;   
+}
+.attribution{
+    text-align: center;
 }
